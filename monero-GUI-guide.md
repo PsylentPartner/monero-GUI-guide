@@ -52,14 +52,14 @@ If you are on Windows:
 ![win firewall check](media/win-firewall-check.png)
 
 ## 0.3. Shortcuts
-Some shorcuts are avialable to make the user experience with the GUI easier:
+Some shorcuts are available to make the user experience with the GUI easier:
 &nbsp;
 
-**On all operative systems:**    
+**On all operating systems:**    
 Press `Ctrl` to view each page shortcut. Press `ctrl+"shorcut"` to go to that page
 &nbsp;
 
-**On Linux/Windoes:**    
+**On Linux/Windows:**    
 `ctrl + tab` -> go to the next page    
 `ctrl + shift + tab` -> go to the previous page
 &nbsp;
